@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ani
+- 👋 Hi, I’m Ani.
 - 👀 I’m interested in stationery, plants and folk music.
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on front end projects
